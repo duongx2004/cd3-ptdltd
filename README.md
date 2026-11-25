@@ -162,13 +162,9 @@ Các file CSV lưu mã hóa UTF-8 có BOM nên mở bằng Excel vẫn đúng d�
 
 | Họ tên | MSSV | Phần phụ trách |
 |---|---|---|
-| [Họ tên] | [MSSV] | [Bước 1: làm sạch] |
-| [Họ tên] | [MSSV] | [Bước 2: trực quan hóa] |
-| [Họ tên] | [MSSV] | [Bước 3: phân khúc] |
-| [Họ tên] | [MSSV] | [Bước 4: dự báo] |
-| [Họ tên] | [MSSV] | [Bước 5: phân loại] |
+| [Lê Nho Dươnhg] | [20222541] | [All] |
 
-**Giảng viên hướng dẫn:** [Họ tên]
+**Giảng viên hướng dẫn:** [Lê Anh Tuấn]
 
 ## Trích dẫn
 
