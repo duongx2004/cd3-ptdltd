@@ -1,0 +1,111 @@
+{
+  "lam_sach": {
+    "so_dong_sau": 60000,
+    "giu_lai_pct": 100.0,
+    "so_nguoi_dung": 7997,
+    "so_san_pham": 300,
+    "ty_le_tieu_cuc_pct": 14.61,
+    "diem_tb": 3.915,
+    "diem_trung_vi": 4.0,
+    "tu_thang": "2022-01-01",
+    "den_thang": "2024-12-01"
+  },
+  "phan_khuc": {
+    "n_min": 30,
+    "so_san_pham_du_dieu_kien": 300,
+    "nguong_pho_bien": 129.5,
+    "nguong_diem": 3.915,
+    "tap_trung": {
+      "top_10pct_san_pham": 38.7,
+      "top_20pct_san_pham": 51.4,
+      "top_50pct_san_pham": 75.1
+    }
+  },
+  "du_bao": {
+    "so_thang": 34,
+    "thang_kiem_tra": 6,
+    "mo_hinh_tot_nhat": "Hồi quy tuyến tính",
+    "bang": [
+      {
+        "Mô hình": "Naive",
+        "MAE": 463.67,
+        "RMSE": 503.85,
+        "MAPE (%)": 22.55
+      },
+      {
+        "Mô hình": "Naive theo mùa",
+        "MAE": 550.83,
+        "RMSE": 559.05,
+        "MAPE (%)": 25.43
+      },
+      {
+        "Mô hình": "Trung bình trượt 3 tháng",
+        "MAE": 403.33,
+        "RMSE": 448.94,
+        "MAPE (%)": 19.73
+      },
+      {
+        "Mô hình": "Hồi quy tuyến tính",
+        "MAE": 157.88,
+        "RMSE": 182.19,
+        "MAPE (%)": 7.74
+      }
+    ],
+    "du_bao_tuong_lai": [
+      {
+        "thang": "2024-12",
+        "du_bao": 2336.0,
+        "can_duoi": 2154.0,
+        "can_tren": 2518.0
+      },
+      {
+        "thang": "2025-01",
+        "du_bao": 2583.0,
+        "can_duoi": 2400.0,
+        "can_tren": 2765.0
+      },
+      {
+        "thang": "2025-02",
+        "du_bao": 2790.0,
+        "can_duoi": 2608.0,
+        "can_tren": 2972.0
+      }
+    ]
+  },
+  "phan_loai": {
+    "nguong_tieu_cuc": 2,
+    "ty_le_tieu_cuc_train_pct": 14.67,
+    "ty_le_tieu_cuc_test_pct": 14.34,
+    "mo_hinh_tot_nhat": "Rừng ngẫu nhiên",
+    "bang": [
+      {
+        "Mô hình": "Baseline: luôn đoán không tiêu cực",
+        "Precision": 0.0,
+        "Recall": 0.0,
+        "F1": 0.0,
+        "ROC-AUC": 0.5
+      },
+      {
+        "Mô hình": "Baseline: tỷ lệ tiêu cực lịch sử",
+        "Precision": 0.261,
+        "Recall": 0.704,
+        "F1": 0.381,
+        "ROC-AUC": 0.741
+      },
+      {
+        "Mô hình": "Hồi quy logistic",
+        "Precision": 0.353,
+        "Recall": 0.41,
+        "F1": 0.379,
+        "ROC-AUC": 0.742
+      },
+      {
+        "Mô hình": "Rừng ngẫu nhiên",
+        "Precision": 0.249,
+        "Recall": 0.793,
+        "F1": 0.38,
+        "ROC-AUC": 0.744
+      }
+    ]
+  }
+}

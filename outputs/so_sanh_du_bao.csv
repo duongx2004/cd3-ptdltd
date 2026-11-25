@@ -1,0 +1,5 @@
+﻿Mô hình,MAE,RMSE,MAPE (%)
+Naive,463.67,503.85,22.55
+Naive theo mùa,550.83,559.05,25.43
+Trung bình trượt 3 tháng,403.33,448.94,19.73
+Hồi quy tuyến tính,157.88,182.19,7.74

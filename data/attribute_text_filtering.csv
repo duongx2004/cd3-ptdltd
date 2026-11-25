@@ -1,0 +1,301 @@
+﻿item_id,product_name,brand,origin,skin_type,volume_ml,quality_tier
+SP0001,Sữa rửa mặt Brand_M số 1,Brand_G,Hàn Quốc,Da hỗn hợp,100,tot
+SP0002,Sữa rửa mặt Brand_D số 2,Brand_A,Hàn Quốc,Da dầu,100,kem
+SP0003,Sữa rửa mặt Brand_N số 3,Brand_C,Việt Nam,Da khô,50,tb
+SP0004,Sữa rửa mặt Brand_O số 4,Brand_M,Việt Nam,Da hỗn hợp,150,tot
+SP0005,Sữa rửa mặt Brand_C số 5,Brand_L,Hàn Quốc,Da dầu,100,tot
+SP0006,Sữa rửa mặt Brand_G số 6,Brand_N,Việt Nam,Da dầu,150,tot
+SP0007,Sữa rửa mặt Brand_H số 7,Brand_I,Nhật Bản,Da khô,50,tot
+SP0008,Sữa rửa mặt Brand_D số 8,Brand_O,Hàn Quốc,Mọi loại da,150,tb
+SP0009,Sữa rửa mặt Brand_M số 9,Brand_L,Hàn Quốc,Da dầu,80,tb
+SP0010,Sữa rửa mặt Brand_B số 10,Brand_A,Nhật Bản,Da dầu,120,tb
+SP0011,Sữa rửa mặt Brand_L số 11,Brand_I,Mỹ,Da hỗn hợp,100,tot
+SP0012,Sữa rửa mặt Brand_J số 12,Brand_H,Việt Nam,Da nhạy cảm,200,kem
+SP0013,Sữa rửa mặt Brand_N số 13,Brand_A,Việt Nam,Da khô,120,tb
+SP0014,Sữa rửa mặt Brand_C số 14,Brand_F,Hàn Quốc,Da khô,150,tot
+SP0015,Sữa rửa mặt Brand_A số 15,Brand_E,Việt Nam,Mọi loại da,100,tot
+SP0016,Sữa rửa mặt Brand_H số 16,Brand_F,Việt Nam,Mọi loại da,150,tot
+SP0017,Sữa rửa mặt Brand_O số 17,Brand_J,Hàn Quốc,Da khô,80,tot
+SP0018,Sữa rửa mặt Brand_C số 18,Brand_L,Hàn Quốc,Mọi loại da,50,tot
+SP0019,Sữa rửa mặt Brand_L số 19,Brand_M,Hàn Quốc,Da hỗn hợp,100,tot
+SP0020,Sữa rửa mặt Brand_J số 20,Brand_M,Hàn Quốc,Da khô,80,tot
+SP0021,Sữa rửa mặt Brand_G số 21,Brand_M,Hàn Quốc,Mọi loại da,80,tb
+SP0022,Sữa rửa mặt Brand_J số 22,Brand_O,Hàn Quốc,Da khô,100,tot
+SP0023,Sữa rửa mặt Brand_E số 23,Brand_E,Hàn Quốc,Da nhạy cảm,150,tot
+SP0024,Sữa rửa mặt Brand_J số 24,Brand_F,Hàn Quốc,Da dầu,200,tot
+SP0025,Sữa rửa mặt Brand_E số 25,Brand_E,Mỹ,Da khô,80,tot
+SP0026,Sữa rửa mặt Brand_N số 26,Brand_K,Việt Nam,Da dầu,120,tb
+SP0027,Sữa rửa mặt Brand_G số 27,Brand_L,Nhật Bản,Mọi loại da,80,tot
+SP0028,Sữa rửa mặt Brand_O số 28,Brand_E,Nhật Bản,Da dầu,200,tot
+SP0029,Sữa rửa mặt Brand_I số 29,Brand_D,Việt Nam,Da khô,150,tot
+SP0030,Sữa rửa mặt Brand_L số 30,Brand_C,Hàn Quốc,Da nhạy cảm,150,tot
+SP0031,Sữa rửa mặt Brand_E số 31,Brand_C,Việt Nam,Mọi loại da,120,tb
+SP0032,Sữa rửa mặt Brand_A số 32,Brand_D,Việt Nam,Da khô,80,tot
+SP0033,Sữa rửa mặt Brand_J số 33,Brand_I,Nhật Bản,Mọi loại da,150,tot
+SP0034,Sữa rửa mặt Brand_J số 34,Brand_B,Việt Nam,Da hỗn hợp,200,kem
+SP0035,Sữa rửa mặt Brand_A số 35,Brand_O,Hàn Quốc,Da dầu,100,kem
+SP0036,Sữa rửa mặt Brand_O số 36,Brand_I,Hàn Quốc,Da hỗn hợp,50,tb
+SP0037,Sữa rửa mặt Brand_B số 37,Brand_A,Hàn Quốc,Da khô,50,tot
+SP0038,Sữa rửa mặt Brand_N số 38,Brand_N,Việt Nam,Da nhạy cảm,50,tot
+SP0039,Sữa rửa mặt Brand_F số 39,Brand_O,Việt Nam,Mọi loại da,80,tb
+SP0040,Sữa rửa mặt Brand_I số 40,Brand_O,Hàn Quốc,Da dầu,120,tot
+SP0041,Sữa rửa mặt Brand_H số 41,Brand_A,Pháp,Mọi loại da,150,tot
+SP0042,Sữa rửa mặt Brand_M số 42,Brand_E,Việt Nam,Da khô,100,tot
+SP0043,Sữa rửa mặt Brand_E số 43,Brand_F,Hàn Quốc,Mọi loại da,200,tot
+SP0044,Sữa rửa mặt Brand_A số 44,Brand_F,Hàn Quốc,Da dầu,100,kem
+SP0045,Sữa rửa mặt Brand_M số 45,Brand_C,Hàn Quốc,Da khô,200,tot
+SP0046,Sữa rửa mặt Brand_G số 46,Brand_G,Hàn Quốc,Mọi loại da,80,tb
+SP0047,Sữa rửa mặt Brand_O số 47,Brand_I,Hàn Quốc,Da nhạy cảm,50,tot
+SP0048,Sữa rửa mặt Brand_E số 48,Brand_K,Hàn Quốc,Da khô,80,tot
+SP0049,Sữa rửa mặt Brand_F số 49,Brand_L,Hàn Quốc,Da khô,120,tot
+SP0050,Sữa rửa mặt Brand_M số 50,Brand_J,Hàn Quốc,Da nhạy cảm,120,tot
+SP0051,Sữa rửa mặt Brand_G số 51,Brand_H,Mỹ,Da hỗn hợp,200,kem
+SP0052,Sữa rửa mặt Brand_C số 52,Brand_F,Hàn Quốc,Da dầu,150,tb
+SP0053,Sữa rửa mặt Brand_L số 53,Brand_L,Việt Nam,Da hỗn hợp,150,kem
+SP0054,Sữa rửa mặt Brand_J số 54,Brand_H,Việt Nam,Mọi loại da,200,tb
+SP0055,Sữa rửa mặt Brand_C số 55,Brand_L,Pháp,Da nhạy cảm,120,tot
+SP0056,Sữa rửa mặt Brand_E số 56,Brand_E,Hàn Quốc,Da hỗn hợp,120,kem
+SP0057,Sữa rửa mặt Brand_F số 57,Brand_H,Hàn Quốc,Da khô,120,tot
+SP0058,Sữa rửa mặt Brand_I số 58,Brand_J,Pháp,Mọi loại da,80,tot
+SP0059,Sữa rửa mặt Brand_M số 59,Brand_L,Mỹ,Mọi loại da,120,tot
+SP0060,Sữa rửa mặt Brand_N số 60,Brand_D,Nhật Bản,Da hỗn hợp,100,tot
+SP0061,Sữa rửa mặt Brand_L số 61,Brand_J,Hàn Quốc,Da hỗn hợp,50,tot
+SP0062,Sữa rửa mặt Brand_E số 62,Brand_H,Hàn Quốc,Da nhạy cảm,120,tot
+SP0063,Sữa rửa mặt Brand_O số 63,Brand_J,Nhật Bản,Da dầu,200,tb
+SP0064,Sữa rửa mặt Brand_A số 64,Brand_L,Mỹ,Da hỗn hợp,50,tot
+SP0065,Sữa rửa mặt Brand_N số 65,Brand_B,Việt Nam,Da hỗn hợp,80,tot
+SP0066,Sữa rửa mặt Brand_N số 66,Brand_L,Việt Nam,Da khô,200,tot
+SP0067,Sữa rửa mặt Brand_N số 67,Brand_L,Hàn Quốc,Mọi loại da,50,tot
+SP0068,Sữa rửa mặt Brand_D số 68,Brand_E,Nhật Bản,Da dầu,200,tb
+SP0069,Sữa rửa mặt Brand_E số 69,Brand_I,Hàn Quốc,Da khô,80,tot
+SP0070,Sữa rửa mặt Brand_L số 70,Brand_D,Hàn Quốc,Da nhạy cảm,100,kem
+SP0071,Sữa rửa mặt Brand_J số 71,Brand_K,Việt Nam,Da nhạy cảm,80,tb
+SP0072,Sữa rửa mặt Brand_J số 72,Brand_F,Việt Nam,Da hỗn hợp,80,tot
+SP0073,Sữa rửa mặt Brand_E số 73,Brand_O,Hàn Quốc,Da hỗn hợp,200,tot
+SP0074,Sữa rửa mặt Brand_G số 74,Brand_A,Hàn Quốc,Da nhạy cảm,150,tb
+SP0075,Sữa rửa mặt Brand_D số 75,Brand_I,Việt Nam,Da hỗn hợp,120,tb
+SP0076,Sữa rửa mặt Brand_A số 76,Brand_A,Hàn Quốc,Da dầu,120,tb
+SP0077,Sữa rửa mặt Brand_N số 77,Brand_E,Việt Nam,Da hỗn hợp,100,tb
+SP0078,Sữa rửa mặt Brand_N số 78,Brand_D,Hàn Quốc,Mọi loại da,100,tot
+SP0079,Sữa rửa mặt Brand_E số 79,Brand_M,Việt Nam,Da hỗn hợp,120,tot
+SP0080,Sữa rửa mặt Brand_G số 80,Brand_L,Việt Nam,Da khô,150,tot
+SP0081,Sữa rửa mặt Brand_J số 81,Brand_M,Hàn Quốc,Da dầu,120,tb
+SP0082,Sữa rửa mặt Brand_J số 82,Brand_M,Hàn Quốc,Da khô,150,tb
+SP0083,Sữa rửa mặt Brand_F số 83,Brand_N,Hàn Quốc,Da khô,100,tot
+SP0084,Sữa rửa mặt Brand_E số 84,Brand_C,Hàn Quốc,Mọi loại da,50,tot
+SP0085,Sữa rửa mặt Brand_D số 85,Brand_M,Pháp,Da dầu,200,tot
+SP0086,Sữa rửa mặt Brand_B số 86,Brand_F,Hàn Quốc,Da dầu,100,tot
+SP0087,Sữa rửa mặt Brand_D số 87,Brand_B,Nhật Bản,Da dầu,100,tb
+SP0088,Sữa rửa mặt Brand_O số 88,Brand_C,Hàn Quốc,Da dầu,80,tb
+SP0089,Sữa rửa mặt Brand_J số 89,Brand_E,Nhật Bản,Da dầu,80,tb
+SP0090,Sữa rửa mặt Brand_J số 90,Brand_O,Nhật Bản,Mọi loại da,80,tot
+SP0091,Sữa rửa mặt Brand_C số 91,Brand_I,Việt Nam,Da hỗn hợp,200,tot
+SP0092,Sữa rửa mặt Brand_J số 92,Brand_B,Việt Nam,Da khô,80,tb
+SP0093,Sữa rửa mặt Brand_A số 93,Brand_J,Việt Nam,Da dầu,150,tb
+SP0094,Sữa rửa mặt Brand_H số 94,Brand_H,Hàn Quốc,Da hỗn hợp,120,tot
+SP0095,Sữa rửa mặt Brand_E số 95,Brand_N,Mỹ,Da hỗn hợp,50,tb
+SP0096,Sữa rửa mặt Brand_M số 96,Brand_B,Nhật Bản,Da khô,100,tot
+SP0097,Sữa rửa mặt Brand_D số 97,Brand_K,Pháp,Mọi loại da,150,tot
+SP0098,Sữa rửa mặt Brand_H số 98,Brand_M,Hàn Quốc,Da nhạy cảm,50,tot
+SP0099,Sữa rửa mặt Brand_G số 99,Brand_E,Nhật Bản,Da nhạy cảm,150,tot
+SP0100,Sữa rửa mặt Brand_B số 100,Brand_G,Mỹ,Da hỗn hợp,150,tot
+SP0101,Sữa rửa mặt Brand_A số 101,Brand_H,Hàn Quốc,Da khô,100,tot
+SP0102,Sữa rửa mặt Brand_L số 102,Brand_A,Hàn Quốc,Da nhạy cảm,120,tb
+SP0103,Sữa rửa mặt Brand_K số 103,Brand_F,Nhật Bản,Da hỗn hợp,80,tot
+SP0104,Sữa rửa mặt Brand_D số 104,Brand_A,Việt Nam,Mọi loại da,200,tot
+SP0105,Sữa rửa mặt Brand_H số 105,Brand_B,Nhật Bản,Da nhạy cảm,120,kem
+SP0106,Sữa rửa mặt Brand_L số 106,Brand_O,Hàn Quốc,Da hỗn hợp,200,tot
+SP0107,Sữa rửa mặt Brand_B số 107,Brand_A,Nhật Bản,Da hỗn hợp,100,tot
+SP0108,Sữa rửa mặt Brand_C số 108,Brand_K,Hàn Quốc,Da dầu,100,tb
+SP0109,Sữa rửa mặt Brand_L số 109,Brand_E,Hàn Quốc,Mọi loại da,100,tot
+SP0110,Sữa rửa mặt Brand_A số 110,Brand_J,Hàn Quốc,Da dầu,50,tot
+SP0111,Sữa rửa mặt Brand_A số 111,Brand_O,Nhật Bản,Da khô,200,tot
+SP0112,Sữa rửa mặt Brand_M số 112,Brand_I,Nhật Bản,Da dầu,120,tot
+SP0113,Sữa rửa mặt Brand_C số 113,Brand_F,Việt Nam,Da dầu,120,kem
+SP0114,Sữa rửa mặt Brand_K số 114,Brand_K,Hàn Quốc,Da nhạy cảm,150,tb
+SP0115,Sữa rửa mặt Brand_E số 115,Brand_K,Mỹ,Da hỗn hợp,150,tb
+SP0116,Sữa rửa mặt Brand_L số 116,Brand_A,Hàn Quốc,Mọi loại da,150,tb
+SP0117,Sữa rửa mặt Brand_C số 117,Brand_M,Nhật Bản,Da dầu,100,tb
+SP0118,Sữa rửa mặt Brand_A số 118,Brand_A,Việt Nam,Mọi loại da,120,tot
+SP0119,Sữa rửa mặt Brand_A số 119,Brand_B,Hàn Quốc,Da dầu,200,tb
+SP0120,Sữa rửa mặt Brand_H số 120,Brand_I,Việt Nam,Da khô,100,tot
+SP0121,Sữa rửa mặt Brand_J số 121,Brand_C,Hàn Quốc,Da dầu,50,tb
+SP0122,Sữa rửa mặt Brand_K số 122,Brand_O,Nhật Bản,Da nhạy cảm,150,tb
+SP0123,Sữa rửa mặt Brand_L số 123,Brand_A,Việt Nam,Da hỗn hợp,100,tot
+SP0124,Sữa rửa mặt Brand_M số 124,Brand_E,Hàn Quốc,Da khô,100,tot
+SP0125,Sữa rửa mặt Brand_M số 125,Brand_G,Mỹ,Da dầu,50,tot
+SP0126,Sữa rửa mặt Brand_L số 126,Brand_F,Hàn Quốc,Mọi loại da,80,tot
+SP0127,Sữa rửa mặt Brand_O số 127,Brand_L,Việt Nam,Da khô,120,tb
+SP0128,Sữa rửa mặt Brand_N số 128,Brand_A,Mỹ,Da khô,200,tb
+SP0129,Sữa rửa mặt Brand_B số 129,Brand_E,Việt Nam,Da dầu,80,tot
+SP0130,Sữa rửa mặt Brand_M số 130,Brand_O,Hàn Quốc,Da khô,150,tot
+SP0131,Sữa rửa mặt Brand_C số 131,Brand_E,Mỹ,Mọi loại da,100,tot
+SP0132,Sữa rửa mặt Brand_B số 132,Brand_F,Việt Nam,Da khô,50,tot
+SP0133,Sữa rửa mặt Brand_C số 133,Brand_C,Hàn Quốc,Mọi loại da,50,tot
+SP0134,Sữa rửa mặt Brand_G số 134,Brand_E,Hàn Quốc,Da dầu,120,tot
+SP0135,Sữa rửa mặt Brand_A số 135,Brand_G,Nhật Bản,Da hỗn hợp,80,kem
+SP0136,Sữa rửa mặt Brand_J số 136,Brand_E,Việt Nam,Da khô,120,tot
+SP0137,Sữa rửa mặt Brand_H số 137,Brand_E,Việt Nam,Da hỗn hợp,100,tot
+SP0138,Sữa rửa mặt Brand_M số 138,Brand_E,Mỹ,Mọi loại da,120,tb
+SP0139,Sữa rửa mặt Brand_J số 139,Brand_J,Nhật Bản,Da khô,200,tot
+SP0140,Sữa rửa mặt Brand_J số 140,Brand_J,Hàn Quốc,Da nhạy cảm,50,kem
+SP0141,Sữa rửa mặt Brand_J số 141,Brand_C,Hàn Quốc,Da hỗn hợp,50,kem
+SP0142,Sữa rửa mặt Brand_N số 142,Brand_A,Hàn Quốc,Da khô,150,tot
+SP0143,Sữa rửa mặt Brand_B số 143,Brand_E,Nhật Bản,Da hỗn hợp,150,tot
+SP0144,Sữa rửa mặt Brand_C số 144,Brand_N,Hàn Quốc,Da khô,100,tot
+SP0145,Sữa rửa mặt Brand_I số 145,Brand_I,Việt Nam,Da dầu,200,tot
+SP0146,Sữa rửa mặt Brand_G số 146,Brand_N,Nhật Bản,Da hỗn hợp,80,tot
+SP0147,Sữa rửa mặt Brand_D số 147,Brand_A,Mỹ,Da nhạy cảm,120,tb
+SP0148,Sữa rửa mặt Brand_J số 148,Brand_C,Hàn Quốc,Da nhạy cảm,100,tot
+SP0149,Sữa rửa mặt Brand_E số 149,Brand_M,Nhật Bản,Mọi loại da,150,tot
+SP0150,Sữa rửa mặt Brand_B số 150,Brand_M,Hàn Quốc,Da khô,120,tot
+SP0151,Sữa rửa mặt Brand_M số 151,Brand_D,Nhật Bản,Da hỗn hợp,150,kem
+SP0152,Sữa rửa mặt Brand_K số 152,Brand_N,Hàn Quốc,Mọi loại da,120,tot
+SP0153,Sữa rửa mặt Brand_M số 153,Brand_A,Hàn Quốc,Da hỗn hợp,80,tot
+SP0154,Sữa rửa mặt Brand_H số 154,Brand_A,Nhật Bản,Da khô,100,tot
+SP0155,Sữa rửa mặt Brand_D số 155,Brand_H,Hàn Quốc,Da nhạy cảm,120,kem
+SP0156,Sữa rửa mặt Brand_I số 156,Brand_B,Hàn Quốc,Da dầu,200,tot
+SP0157,Sữa rửa mặt Brand_E số 157,Brand_L,Nhật Bản,Da nhạy cảm,50,tb
+SP0158,Sữa rửa mặt Brand_M số 158,Brand_O,Nhật Bản,Mọi loại da,200,tb
+SP0159,Sữa rửa mặt Brand_I số 159,Brand_H,Việt Nam,Da dầu,200,tot
+SP0160,Sữa rửa mặt Brand_D số 160,Brand_G,Nhật Bản,Mọi loại da,50,tb
+SP0161,Sữa rửa mặt Brand_J số 161,Brand_J,Việt Nam,Da khô,200,tot
+SP0162,Sữa rửa mặt Brand_E số 162,Brand_J,Hàn Quốc,Da dầu,120,tb
+SP0163,Sữa rửa mặt Brand_I số 163,Brand_B,Hàn Quốc,Mọi loại da,120,tb
+SP0164,Sữa rửa mặt Brand_H số 164,Brand_F,Hàn Quốc,Da khô,120,tot
+SP0165,Sữa rửa mặt Brand_C số 165,Brand_F,Mỹ,Da nhạy cảm,50,tot
+SP0166,Sữa rửa mặt Brand_A số 166,Brand_C,Việt Nam,Da khô,200,tb
+SP0167,Sữa rửa mặt Brand_C số 167,Brand_K,Việt Nam,Da hỗn hợp,50,tot
+SP0168,Sữa rửa mặt Brand_D số 168,Brand_B,Việt Nam,Da khô,120,tot
+SP0169,Sữa rửa mặt Brand_B số 169,Brand_L,Mỹ,Da khô,200,tot
+SP0170,Sữa rửa mặt Brand_A số 170,Brand_A,Hàn Quốc,Da hỗn hợp,200,tot
+SP0171,Sữa rửa mặt Brand_G số 171,Brand_F,Việt Nam,Mọi loại da,150,tb
+SP0172,Sữa rửa mặt Brand_H số 172,Brand_L,Việt Nam,Mọi loại da,150,tot
+SP0173,Sữa rửa mặt Brand_G số 173,Brand_E,Việt Nam,Da khô,80,tot
+SP0174,Sữa rửa mặt Brand_N số 174,Brand_N,Hàn Quốc,Da hỗn hợp,100,tot
+SP0175,Sữa rửa mặt Brand_E số 175,Brand_N,Mỹ,Da hỗn hợp,150,tb
+SP0176,Sữa rửa mặt Brand_L số 176,Brand_K,Mỹ,Da nhạy cảm,50,tot
+SP0177,Sữa rửa mặt Brand_A số 177,Brand_I,Việt Nam,Mọi loại da,150,tb
+SP0178,Sữa rửa mặt Brand_G số 178,Brand_A,Nhật Bản,Da dầu,80,tot
+SP0179,Sữa rửa mặt Brand_M số 179,Brand_O,Mỹ,Mọi loại da,200,kem
+SP0180,Sữa rửa mặt Brand_G số 180,Brand_O,Nhật Bản,Mọi loại da,80,tot
+SP0181,Sữa rửa mặt Brand_I số 181,Brand_G,Hàn Quốc,Da nhạy cảm,200,tot
+SP0182,Sữa rửa mặt Brand_C số 182,Brand_O,Việt Nam,Da dầu,200,tot
+SP0183,Sữa rửa mặt Brand_I số 183,Brand_E,Việt Nam,Da nhạy cảm,100,kem
+SP0184,Sữa rửa mặt Brand_N số 184,Brand_E,Việt Nam,Da dầu,150,tb
+SP0185,Sữa rửa mặt Brand_A số 185,Brand_N,Nhật Bản,Da khô,50,tot
+SP0186,Sữa rửa mặt Brand_A số 186,Brand_B,Mỹ,Da dầu,50,tb
+SP0187,Sữa rửa mặt Brand_N số 187,Brand_K,Mỹ,Da nhạy cảm,120,tb
+SP0188,Sữa rửa mặt Brand_D số 188,Brand_C,Việt Nam,Mọi loại da,200,tot
+SP0189,Sữa rửa mặt Brand_I số 189,Brand_G,Hàn Quốc,Da dầu,50,tot
+SP0190,Sữa rửa mặt Brand_F số 190,Brand_F,Pháp,Da dầu,100,tot
+SP0191,Sữa rửa mặt Brand_M số 191,Brand_L,Nhật Bản,Da hỗn hợp,200,tot
+SP0192,Sữa rửa mặt Brand_K số 192,Brand_B,Hàn Quốc,Mọi loại da,100,tb
+SP0193,Sữa rửa mặt Brand_C số 193,Brand_F,Mỹ,Da khô,50,kem
+SP0194,Sữa rửa mặt Brand_A số 194,Brand_B,Mỹ,Da nhạy cảm,50,tb
+SP0195,Sữa rửa mặt Brand_D số 195,Brand_B,Việt Nam,Da khô,120,tot
+SP0196,Sữa rửa mặt Brand_L số 196,Brand_B,Việt Nam,Mọi loại da,50,tot
+SP0197,Sữa rửa mặt Brand_M số 197,Brand_N,Hàn Quốc,Da dầu,200,tb
+SP0198,Sữa rửa mặt Brand_I số 198,Brand_O,Hàn Quốc,Da dầu,200,tb
+SP0199,Sữa rửa mặt Brand_C số 199,Brand_K,Hàn Quốc,Mọi loại da,200,tb
+SP0200,Sữa rửa mặt Brand_L số 200,Brand_C,Nhật Bản,Da dầu,120,tb
+SP0201,Sữa rửa mặt Brand_I số 201,Brand_O,Hàn Quốc,Da dầu,120,tb
+SP0202,Sữa rửa mặt Brand_G số 202,Brand_B,Hàn Quốc,Da dầu,50,tot
+SP0203,Sữa rửa mặt Brand_L số 203,Brand_D,Hàn Quốc,Da nhạy cảm,80,tot
+SP0204,Sữa rửa mặt Brand_N số 204,Brand_I,Việt Nam,Da nhạy cảm,80,tb
+SP0205,Sữa rửa mặt Brand_O số 205,Brand_F,Mỹ,Da hỗn hợp,120,tb
+SP0206,Sữa rửa mặt Brand_D số 206,Brand_A,Hàn Quốc,Da khô,50,tot
+SP0207,Sữa rửa mặt Brand_C số 207,Brand_H,Hàn Quốc,Mọi loại da,80,tot
+SP0208,Sữa rửa mặt Brand_J số 208,Brand_O,Nhật Bản,Mọi loại da,50,tb
+SP0209,Sữa rửa mặt Brand_O số 209,Brand_L,Việt Nam,Mọi loại da,50,tot
+SP0210,Sữa rửa mặt Brand_E số 210,Brand_N,Hàn Quốc,Da hỗn hợp,50,tot
+SP0211,Sữa rửa mặt Brand_E số 211,Brand_G,Việt Nam,Da nhạy cảm,150,tot
+SP0212,Sữa rửa mặt Brand_C số 212,Brand_J,Hàn Quốc,Da hỗn hợp,200,tb
+SP0213,Sữa rửa mặt Brand_L số 213,Brand_C,Hàn Quốc,Mọi loại da,50,tb
+SP0214,Sữa rửa mặt Brand_I số 214,Brand_A,Việt Nam,Da khô,150,tot
+SP0215,Sữa rửa mặt Brand_D số 215,Brand_E,Việt Nam,Da dầu,120,tb
+SP0216,Sữa rửa mặt Brand_K số 216,Brand_M,Mỹ,Da nhạy cảm,80,tot
+SP0217,Sữa rửa mặt Brand_E số 217,Brand_D,Hàn Quốc,Da nhạy cảm,200,tot
+SP0218,Sữa rửa mặt Brand_D số 218,Brand_J,Việt Nam,Da hỗn hợp,80,tb
+SP0219,Sữa rửa mặt Brand_E số 219,Brand_H,Việt Nam,Da nhạy cảm,200,tb
+SP0220,Sữa rửa mặt Brand_G số 220,Brand_A,Hàn Quốc,Mọi loại da,80,tb
+SP0221,Sữa rửa mặt Brand_I số 221,Brand_J,Nhật Bản,Mọi loại da,200,tb
+SP0222,Sữa rửa mặt Brand_G số 222,Brand_A,Hàn Quốc,Da hỗn hợp,80,tot
+SP0223,Sữa rửa mặt Brand_M số 223,Brand_L,Pháp,Mọi loại da,80,tot
+SP0224,Sữa rửa mặt Brand_E số 224,Brand_D,Hàn Quốc,Da khô,80,tot
+SP0225,Sữa rửa mặt Brand_J số 225,Brand_H,Việt Nam,Da hỗn hợp,80,tot
+SP0226,Sữa rửa mặt Brand_J số 226,Brand_E,Hàn Quốc,Da khô,120,tot
+SP0227,Sữa rửa mặt Brand_G số 227,Brand_B,Pháp,Da dầu,50,kem
+SP0228,Sữa rửa mặt Brand_N số 228,Brand_F,Việt Nam,Da khô,100,tot
+SP0229,Sữa rửa mặt Brand_O số 229,Brand_E,Việt Nam,Da dầu,150,tb
+SP0230,Sữa rửa mặt Brand_J số 230,Brand_B,Hàn Quốc,Da dầu,100,tb
+SP0231,Sữa rửa mặt Brand_E số 231,Brand_M,Nhật Bản,Da khô,100,tb
+SP0232,Sữa rửa mặt Brand_C số 232,Brand_N,Hàn Quốc,Da hỗn hợp,200,tot
+SP0233,Sữa rửa mặt Brand_G số 233,Brand_K,Mỹ,Mọi loại da,50,tot
+SP0234,Sữa rửa mặt Brand_M số 234,Brand_K,Hàn Quốc,Mọi loại da,200,tot
+SP0235,Sữa rửa mặt Brand_K số 235,Brand_K,Hàn Quốc,Da dầu,50,tot
+SP0236,Sữa rửa mặt Brand_K số 236,Brand_C,Hàn Quốc,Da dầu,50,tb
+SP0237,Sữa rửa mặt Brand_B số 237,Brand_O,Việt Nam,Da hỗn hợp,80,tot
+SP0238,Sữa rửa mặt Brand_O số 238,Brand_I,Việt Nam,Da nhạy cảm,120,tot
+SP0239,Sữa rửa mặt Brand_L số 239,Brand_G,Hàn Quốc,Da khô,80,tb
+SP0240,Sữa rửa mặt Brand_I số 240,Brand_G,Nhật Bản,Da dầu,120,tot
+SP0241,Sữa rửa mặt Brand_J số 241,Brand_O,Việt Nam,Mọi loại da,200,kem
+SP0242,Sữa rửa mặt Brand_J số 242,Brand_K,Việt Nam,Da hỗn hợp,120,kem
+SP0243,Sữa rửa mặt Brand_L số 243,Brand_F,Việt Nam,Da khô,200,kem
+SP0244,Sữa rửa mặt Brand_A số 244,Brand_H,Việt Nam,Da hỗn hợp,100,tot
+SP0245,Sữa rửa mặt Brand_M số 245,Brand_D,Việt Nam,Da khô,100,tot
+SP0246,Sữa rửa mặt Brand_F số 246,Brand_H,Hàn Quốc,Da khô,120,kem
+SP0247,Sữa rửa mặt Brand_G số 247,Brand_D,Hàn Quốc,Da dầu,120,tot
+SP0248,Sữa rửa mặt Brand_N số 248,Brand_H,Mỹ,Da hỗn hợp,200,kem
+SP0249,Sữa rửa mặt Brand_M số 249,Brand_I,Mỹ,Da hỗn hợp,80,kem
+SP0250,Sữa rửa mặt Brand_H số 250,Brand_C,Hàn Quốc,Mọi loại da,200,tb
+SP0251,Sữa rửa mặt Brand_J số 251,Brand_C,Hàn Quốc,Mọi loại da,80,tot
+SP0252,Sữa rửa mặt Brand_I số 252,Brand_K,Việt Nam,Da dầu,100,tot
+SP0253,Sữa rửa mặt Brand_B số 253,Brand_M,Việt Nam,Da dầu,50,tb
+SP0254,Sữa rửa mặt Brand_K số 254,Brand_B,Hàn Quốc,Da nhạy cảm,120,tot
+SP0255,Sữa rửa mặt Brand_J số 255,Brand_M,Hàn Quốc,Mọi loại da,80,tot
+SP0256,Sữa rửa mặt Brand_B số 256,Brand_J,Nhật Bản,Da khô,200,tot
+SP0257,Sữa rửa mặt Brand_E số 257,Brand_C,Nhật Bản,Da hỗn hợp,100,kem
+SP0258,Sữa rửa mặt Brand_M số 258,Brand_C,Hàn Quốc,Da dầu,80,tb
+SP0259,Sữa rửa mặt Brand_E số 259,Brand_E,Hàn Quốc,Da hỗn hợp,200,tot
+SP0260,Sữa rửa mặt Brand_F số 260,Brand_E,Hàn Quốc,Da hỗn hợp,120,tot
+SP0261,Sữa rửa mặt Brand_C số 261,Brand_B,Nhật Bản,Da nhạy cảm,120,tb
+SP0262,Sữa rửa mặt Brand_H số 262,Brand_L,Hàn Quốc,Mọi loại da,150,kem
+SP0263,Sữa rửa mặt Brand_M số 263,Brand_J,Hàn Quốc,Da dầu,50,tot
+SP0264,Sữa rửa mặt Brand_A số 264,Brand_M,Nhật Bản,Da hỗn hợp,150,tot
+SP0265,Sữa rửa mặt Brand_F số 265,Brand_F,Hàn Quốc,Da dầu,100,tb
+SP0266,Sữa rửa mặt Brand_D số 266,Brand_E,Nhật Bản,Da khô,80,tb
+SP0267,Sữa rửa mặt Brand_A số 267,Brand_F,Hàn Quốc,Da nhạy cảm,100,tb
+SP0268,Sữa rửa mặt Brand_O số 268,Brand_A,Hàn Quốc,Da khô,200,tb
+SP0269,Sữa rửa mặt Brand_G số 269,Brand_E,Hàn Quốc,Da dầu,120,tot
+SP0270,Sữa rửa mặt Brand_I số 270,Brand_I,Nhật Bản,Da dầu,150,tot
+SP0271,Sữa rửa mặt Brand_M số 271,Brand_L,Mỹ,Mọi loại da,150,tb
+SP0272,Sữa rửa mặt Brand_D số 272,Brand_J,Nhật Bản,Da hỗn hợp,150,tb
+SP0273,Sữa rửa mặt Brand_D số 273,Brand_N,Hàn Quốc,Da hỗn hợp,100,tb
+SP0274,Sữa rửa mặt Brand_F số 274,Brand_B,Nhật Bản,Da khô,120,kem
+SP0275,Sữa rửa mặt Brand_L số 275,Brand_A,Hàn Quốc,Da nhạy cảm,80,tot
+SP0276,Sữa rửa mặt Brand_O số 276,Brand_N,Hàn Quốc,Da hỗn hợp,200,tot
+SP0277,Sữa rửa mặt Brand_C số 277,Brand_J,Mỹ,Mọi loại da,80,tb
+SP0278,Sữa rửa mặt Brand_M số 278,Brand_M,Hàn Quốc,Da khô,100,tb
+SP0279,Sữa rửa mặt Brand_L số 279,Brand_K,Hàn Quốc,Da khô,200,tb
+SP0280,Sữa rửa mặt Brand_F số 280,Brand_I,Hàn Quốc,Mọi loại da,150,tb
+SP0281,Sữa rửa mặt Brand_G số 281,Brand_J,Hàn Quốc,Da nhạy cảm,50,tb
+SP0282,Sữa rửa mặt Brand_K số 282,Brand_I,Hàn Quốc,Mọi loại da,100,tot
+SP0283,Sữa rửa mặt Brand_J số 283,Brand_O,Việt Nam,Da nhạy cảm,100,tot
+SP0284,Sữa rửa mặt Brand_J số 284,Brand_I,Việt Nam,Mọi loại da,120,tot
+SP0285,Sữa rửa mặt Brand_C số 285,Brand_F,Mỹ,Mọi loại da,80,tot
+SP0286,Sữa rửa mặt Brand_G số 286,Brand_O,Nhật Bản,Da dầu,100,tot
+SP0287,Sữa rửa mặt Brand_N số 287,Brand_H,Hàn Quốc,Da khô,100,tot
+SP0288,Sữa rửa mặt Brand_C số 288,Brand_N,Hàn Quốc,Mọi loại da,150,tot
+SP0289,Sữa rửa mặt Brand_M số 289,Brand_K,Hàn Quốc,Mọi loại da,150,tot
+SP0290,Sữa rửa mặt Brand_M số 290,Brand_O,Việt Nam,Da hỗn hợp,200,tot
+SP0291,Sữa rửa mặt Brand_B số 291,Brand_M,Hàn Quốc,Da khô,50,tot
+SP0292,Sữa rửa mặt Brand_L số 292,Brand_A,Việt Nam,Da hỗn hợp,120,tot
+SP0293,Sữa rửa mặt Brand_N số 293,Brand_J,Việt Nam,Da khô,50,tb
+SP0294,Sữa rửa mặt Brand_J số 294,Brand_D,Việt Nam,Da hỗn hợp,200,tot
+SP0295,Sữa rửa mặt Brand_D số 295,Brand_A,Việt Nam,Mọi loại da,150,tot
+SP0296,Sữa rửa mặt Brand_L số 296,Brand_H,Hàn Quốc,Mọi loại da,80,tot
+SP0297,Sữa rửa mặt Brand_H số 297,Brand_A,Mỹ,Da dầu,150,tb
+SP0298,Sữa rửa mặt Brand_M số 298,Brand_C,Nhật Bản,Da hỗn hợp,120,tot
+SP0299,Sữa rửa mặt Brand_O số 299,Brand_M,Hàn Quốc,Da nhạy cảm,150,tb
+SP0300,Sữa rửa mặt Brand_I số 300,Brand_D,Mỹ,Da dầu,120,tot

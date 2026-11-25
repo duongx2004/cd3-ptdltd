@@ -1,0 +1,8 @@
+﻿buoc,so_dong_con_lai
+0. Dữ liệu gốc,60000
+1. Loại thiếu user/item/điểm/thời gian,60000
+2. Loại trùng lặp,60000
+3. Giữ điểm 1-5,60000
+4. Giữ thời gian hợp lệ (2010 → nay),60000
+5. Nối thuộc tính sản phẩm,60000
+6. Tạo biến tháng/thứ/độ dài/nhãn tiêu cực,60000

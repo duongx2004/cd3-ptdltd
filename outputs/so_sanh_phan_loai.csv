@@ -1,0 +1,5 @@
+﻿Mô hình,Precision,Recall,F1,ROC-AUC
+Baseline: luôn đoán không tiêu cực,0.0,0.0,0.0,0.5
+Baseline: tỷ lệ tiêu cực lịch sử,0.261,0.704,0.381,0.741
+Hồi quy logistic,0.353,0.41,0.379,0.742
+Rừng ngẫu nhiên,0.249,0.793,0.38,0.744

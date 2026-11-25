@@ -1,0 +1,20 @@
+{
+  "COLS": {
+    "user": "user_id",
+    "item": "item_id",
+    "rating": "rating",
+    "time": "time",
+    "text": "comment"
+  },
+  "ITEM_ID_COL": "item_id",
+  "ITEM_CAT_COLS": [
+    "brand",
+    "origin",
+    "skin_type",
+    "volume_ml",
+    "quality_tier"
+  ],
+  "BRAND_COL": "brand",
+  "ORIGIN_COL": "origin",
+  "NAME_COL": "product_name"
+}
